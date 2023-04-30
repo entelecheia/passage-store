@@ -14,7 +14,7 @@ This is a template for a password store. It is based on the [passage](https://gi
 - If you need to initialize a new password store manually, run `passage-init`.
 - If you need to generate a age key manually, run `dotfiles-setup-age`.
 
-## Helper commands
+## [Helper commands](https://dotfiles.entelecheia.ai/usage/)
 
 - `passage-init`: Initialize a new password store.
 - `pass-push`: Push changes to the remote repository.
